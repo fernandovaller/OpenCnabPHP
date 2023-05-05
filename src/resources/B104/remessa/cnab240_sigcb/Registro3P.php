@@ -82,7 +82,7 @@ class Registro3P extends Generico3 {
             'tipo' => 'alfa',
             'required' => true),
         'codigo_convenio' => array(//10.3P
-            'tamanho' => 6,
+            'tamanho' => 7,
             'default' => '0',
             'tipo' => 'int',
             'required' => true),
