@@ -92,12 +92,12 @@ class Registro3P extends Generico3 {
             'tipo' => 'int',
             'required' => true),
         'filler3' => array(//12.3P
-            'tamanho' => 3,
+            'tamanho' => 2,
             'default' => '0',
             'tipo' => 'int',
             'required' => true),
         'carteira' => array(//13.3P
-            'tamanho' => 2,
+            'tamanho' => 1,
             'default' => '0',
             'tipo' => 'int',
             'required' => true),
@@ -129,7 +129,7 @@ class Registro3P extends Generico3 {
         'entrega_boleto' => array(//18.3P
             'tamanho' => 1,
             'default' => '0',
-            'tipo' => 'int', // originalmente no manual esta alfa mas foi mudado para int para funcionar 
+            'tipo' => 'int', // originalmente no manual esta alfa mas foi mudado para int para funcionar
             'required' => true),
         'seu_numero' => array(//19.3P   Campo de preenchimento obrigatório; preencher com Seu Número de controle do título
             'tamanho' => 11,
