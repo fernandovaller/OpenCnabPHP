@@ -62,7 +62,7 @@ class Registro1 extends Generico1
 			'required'=>true),
 		'versa_layout'=>array(
 			'tamanho'=>3,
-			'default'=>'030',
+			'default'=>'037',
 			'tipo'=>'int',
 			'required'=>true),
 		'filler2'=>array(
