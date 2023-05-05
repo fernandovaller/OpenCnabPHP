@@ -81,12 +81,12 @@ class Registro1 extends Generico1
 			'tipo'=>'int',
 			'required'=>true),
 		'codigo_beneficiario'=>array(
-			'tamanho'=>6,
+			'tamanho'=>7,
 			'default'=>'',
 			'tipo'=>'int',
 			'required'=>true),
 		'uso_caixa1'=>array(
-			'tamanho'=>14,
+			'tamanho'=>13,
 			'default'=>'0',
 			'tipo'=>'int',
 			'required'=>true),
