@@ -102,7 +102,7 @@ Acesse a url de exemplo:
             Cnab240_SIGCB
         </td>
         <td>
-            DESATIVADO**
+            Homologado
         </td>
         <td>
             Cnab240_SIGCB
